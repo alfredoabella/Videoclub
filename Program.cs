@@ -51,7 +51,7 @@ namespace Videoclub
 
         public static void InicioCliente()
         {
-            string emailCliente, contraseniaCliente;
+            string emailCliente, contraseniaCliente;//
             bool meterRegistro;
 
             do
